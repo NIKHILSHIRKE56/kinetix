@@ -1,0 +1,12 @@
+# Python/Backend stuff
+__pycache__/
+venv/
+.env
+
+# Web/Frontend stuff (if you are using Node/JS)
+node_modules/
+.next/
+build/
+
+# General
+.DS_Store
